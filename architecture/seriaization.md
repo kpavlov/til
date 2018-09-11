@@ -32,6 +32,21 @@ Frameworks:
 It's possible to use /generate JSON with [protobufjs][protobufjs]
 See also: https://stackoverflow.com/questions/28545401/java-json-protobuf-back-conversion
 
+Protobuf supports *unknown fields* so it's possible to use a kind of *reflection*:
+https://stackoverflow.com/questions/38071689/examining-a-protobuf-message-how-to-get-field-values-by-name
+
+Protobuf doesn't support inheritance. You should use composition instead (https://stackoverflow.com/a/41256006/3315474):
+
+~~~proto
+message Foo {
+  Bar bar = 1;
+  string id = 2;
+}
+~~~
+
+Links:
+ * 
+
 ### Apache Avro
 
 Introduction
