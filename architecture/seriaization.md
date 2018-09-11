@@ -25,6 +25,12 @@ Frameworks:
 | 
 
 [thrift]: http://thrift.apache.org "Apache Thrift"
+[protobufjs]: https://www.npmjs.com/package/protobufjs 
+
+### Protobuf
+
+It's possible to use /generate JSON with [protobufjs][protobufjs]
+See also: https://stackoverflow.com/questions/28545401/java-json-protobuf-back-conversion
 
 ### Apache Avro
 
