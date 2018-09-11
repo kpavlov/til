@@ -1,5 +1,4 @@
-# til
-"Today I learned"
+# T.I.L. <sub><em>("Today I learned")</em></sub>
 
 Cheatsheets, links, tips
 
