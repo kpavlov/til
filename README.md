@@ -6,3 +6,4 @@ Cheatsheets, links, tips
 * [Useful Kubernetes Commands](kubernetes/useful-commands.md)
 * [Swagger Stuff](swagger/swagger.md)
 * [Gitlab & Gitlab-CI Tips](gitlab.md)
+* [Gradle Tips](gradle.md)
