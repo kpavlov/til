@@ -2,7 +2,8 @@
 
 ## How to customize JUnit reports
 
-``build.gradle.kts
+build.gradle.kts:
+~~~ 
 tasks {
   test {
     useJUnitPlatform()
@@ -13,4 +14,4 @@ tasks {
     }
   }
 }
-```
+~~~
