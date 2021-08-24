@@ -7,3 +7,4 @@ Cheatsheets, links, tips
 * [Swagger Stuff](swagger/swagger.md)
 * [Gitlab & Gitlab-CI Tips](gitlab.md)
 * [Gradle Tips](gradle.md)
+* [Terraform](/terraform)
